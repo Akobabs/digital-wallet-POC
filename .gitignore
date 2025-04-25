@@ -1,0 +1,29 @@
+# Python/Django
+venv/
+backend/db.sqlite3
+backend/error.log
+backend/static/
+__pycache__/
+*.pyc
+.env
+
+# React
+wallet-frontend/node_modules/
+wallet-frontend/build/
+node_modules/
+
+
+# Demo materials
+demo/
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Optional (depending on your preference)
+# backend/wallet_app/migrations/*
+# wallet-frontend/package-lock.json

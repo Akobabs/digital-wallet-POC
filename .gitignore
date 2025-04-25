@@ -11,6 +11,8 @@ __pycache__/
 wallet-frontend/node_modules/
 wallet-frontend/build/
 node_modules/
+package-lock.json
+
 
 
 # Demo materials

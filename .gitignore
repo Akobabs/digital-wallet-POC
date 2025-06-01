@@ -15,6 +15,7 @@ package-lock.json
 
 ml/*.zip
 ml/*.csv
+backend/*.pkl
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/

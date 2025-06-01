@@ -13,6 +13,11 @@ wallet-frontend/build/
 node_modules/
 package-lock.json
 
+ml/*.zip
+ml/*.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
 
 
 # Demo materials
